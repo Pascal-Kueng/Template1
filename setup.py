@@ -4,7 +4,7 @@ setup(
     name="TemplatePythonPackage",
     version="0.1.0",
     description="A Minimal Template Python Package",
-    url="https://github.com/Pascal-Kueng/TemplatePythonPackage",
+    url="https://github.com/Pascal-Kueng/Template1",
     author="Dominique Makowski",
     author_email="dom.makowski@gmail.com",
     license="MIT",
