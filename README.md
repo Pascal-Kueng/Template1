@@ -5,7 +5,7 @@ A template for a minimal Python package with a automated documentation website.
 ## Installation
 
 ```
-pip install https://github.com/Pascal-Kueng/Test/zipball/main
+pip install https://github.com/Pascal-Kueng/Template1/zipball/main
 ```
 
 ## Example
